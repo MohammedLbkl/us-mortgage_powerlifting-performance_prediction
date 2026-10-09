@@ -1,0 +1,1 @@
+# Entraîne ton modèle de régression, par exemple LinearRegression, RandomForestRegressor ou HistGradientBoostingRegressor.

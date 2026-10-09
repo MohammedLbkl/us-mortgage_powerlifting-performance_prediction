@@ -1,0 +1,1 @@
+# Sépare les variables explicatives X et la cible y, puis crée les ensembles d'entraînement et de test avec train_test_split().

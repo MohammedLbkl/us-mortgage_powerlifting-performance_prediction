@@ -1,0 +1,1 @@
+# Évalue les performances avec des métriques adaptées à la régression : MAE, RMSE et R^2

@@ -1,0 +1,1 @@
+# Crée un pipeline Scikit-learn pour imputer les valeurs manquantes, encoder les variables catégorielles et standardiser les variables numériques si nécessaire.
