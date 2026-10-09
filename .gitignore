@@ -1,0 +1,100 @@
+# =========================
+
+# Python
+
+# =========================
+
+**pycache**/
+*.py[cod]
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# =========================
+
+# Virtual environments
+
+# =========================
+
+.venv/
+venv/
+env/
+
+# =========================
+
+# uv
+
+# =========================
+
+# Keep pyproject.toml and uv.lock tracked
+
+# =========================
+
+# Jupyter Notebook
+
+# =========================
+
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# =========================
+
+# VS Code
+
+# =========================
+
+.vscode/
+
+# Uncomment if you want to share recommended extensions:
+
+# !.vscode/extensions.json
+
+# =========================
+
+# Datasets
+
+# =========================
+
+data/
+data/raw/
+data/external/
+datasets/
+*.parquet
+*.csv
+*.zip
+
+# =========================
+
+# Trained models and artifacts
+
+# =========================
+
+models/
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# =========================
+
+# Secrets and environment variables
+
+# =========================
+
+.env
+.env.*
+!.env.example
+
+# =========================
+
+# Logs and temporary files
+
+# =========================
+
+*.log
+.DS_Store
+Thumbs.db
